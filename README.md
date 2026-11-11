@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amaan-khan-328044212/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://amaanportolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=noobProgrammer44&style=for-the-badge&color=0e75b6&label=Profile+views" alt="Profile views"/>
+  <a href="https://leetcode.com/u/kamaan7899/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -86,6 +86,10 @@
 
 ### 📊 GitHub stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noobProgrammer44&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobProgrammer44&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=noobProgrammer44&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
 </p>
